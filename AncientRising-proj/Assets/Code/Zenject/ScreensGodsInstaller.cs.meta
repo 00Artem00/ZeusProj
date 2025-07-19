@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ee5115e55e1deb04ab4863d911872534
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _zeus: {fileID: 940149218598255702, guid: 422071e1f3c62244aafd2e76ebc13b9d, type: 3}
+  - _hera: {fileID: 1511007217136134502, guid: d491d424d9506d149ab30bce2c3d8359, type: 3}
+  - _poseidon: {fileID: 5279801855216380970, guid: 60ad92bb25328764db9de8b727dc64e9, type: 3}
+  - _hades: {fileID: 4617280354844304307, guid: af563b28aca257440b006d6bd398e3b0, type: 3}
+  - _athena: {fileID: 7418542010319629908, guid: 3789bcedfda1a35478a003d09fa247ef, type: 3}
+  - _apollo: {fileID: 8632368229646013508, guid: b10b11e85c487d84f98f2552bb4124b7, type: 3}
+  - _artemis: {fileID: 6101200649891685387, guid: 7ef65253c5a760644ac0d9d02d063967, type: 3}
+  - _ares: {fileID: 2809951355476148776, guid: 7a4ee580cd2950e4daf3cdec39561cf7, type: 3}
+  - _aphrodite: {fileID: 1575183330093964104, guid: 58a52f8f346c91148a9e9662d8e9ddd4, type: 3}
+  - _hephaestus: {fileID: 6369344535824348525, guid: 4a772a072ff21c742a85af37d900e24c, type: 3}
+  - _hermes: {fileID: 6617468695807222920, guid: 4664b1f6f0f74a54282ee819723a99ee, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
